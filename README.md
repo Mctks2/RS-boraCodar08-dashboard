@@ -1,6 +1,6 @@
 # boraCodar um dashboard
 
-Desafio #8 proposto pela Rocketseat, com desenvolvimento em dashboard.
+Desafio #08 proposto pela Rocketseat, com desenvolvimento em dashboard.
 
 ## 🛠️ Tecnologias utilizadas
 - HTML
